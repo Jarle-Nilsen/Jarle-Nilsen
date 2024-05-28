@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Jarle-Nilsen
-- 👀 I’m interested in applying Deep Learning techniques to Time Series analysis and prediction
-- 🌱 I’m currently learning how to utliize git and github in a Python development scenario with vscode and docker
+- 👀 I’m interested in
+-  * applying Deep Learning techniques to Time Series analysis and prediction, using pytorch an keras/tensorflow
+   * experimenting and testing with agentic frameworks
+- 🌱 I’m currently applying github copilot in a Python development scenario with vscode
 - 💞️ I’m looking to collaborate on applied ai scenarios
 - 📫 Reach me at jn@askerai.no
 
